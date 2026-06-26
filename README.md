@@ -1,4 +1,6 @@
 🪩 DISCO LIGHT 🪩
+
+
 A minimalist, lightweight web application that generates random background colors using HTML, CSS, and  JavaScript.
 
 🚀 Features
